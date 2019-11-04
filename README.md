@@ -99,7 +99,7 @@ You should also **share** the slides with all members after the event. Optionall
 
 ### **CDF swag**
 
-If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certificate to the [CDF Store](https://store.cd.foundation).
+If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cd.foundation for a complimentary $50 swag certificate to the [CDF Store](https://store.cd.foundation).
 
 ### **Ask for help**
 

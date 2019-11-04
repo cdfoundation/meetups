@@ -8,6 +8,8 @@ CDF is currently working on expanding the CI/CD community around the globe, and 
 
 If you are interested in joining the list of official CDF meetups, please take a look at "How to apply?" section below.
 
+The list of global Meetups is [located on meetup.com](https://www.meetup.com/pro/cicd-cdf)
+
 ## Benefits of joining the CDF Meetup Program
 
 - Boosting the visibility of your meetup group
@@ -51,9 +53,9 @@ Joining forces helps spread the load and expands the network.
 
 You should provide some kind of **form** in order to allow people to submit their talk proposal similar to this:
 
-@TODO link to form...
+https://docs.google.com/forms/d/e/1FAIpQLSe9ADeMhhemZy-FYVqDjpjadcc214K-Ox-41F6v0IyGbrOV3g/viewform?usp=sf_link
 
-> _**Note**_: Make a copy! Please do not edit that form.
+> _**Note**_: Make a copy per meetup event! Please do not edit that form.
 
 When possible take care to review their presentations.
 
@@ -97,11 +99,15 @@ You should also **share** the slides with all members after the event. Optionall
 
 ### **CDF swag**
 
-@TODO
+If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certificate to the [CDF Store](https://store.cd.foundation).
 
 ### **Ask for help**
 
-If you have any other questions, you can ask them in the [CDF Slack](https://{url}.slack.com/).
+If you have any other questions, you can ask them in the [CDF Slack](https://cdeliveryfdn.slack.com/).
+
+Join the community: https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM
+
+The Slack channel for meetup support is **#meetups**.
 
 
 ## How to apply?
@@ -110,8 +116,8 @@ If you have any other questions, you can ask them in the [CDF Slack](https://{ur
 * We accept only **active** meetup communities. Please, ensure that:
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
-* If all the requirements above are satisfied, please apply via filling the [form](url to form).
+* If all the requirements above are satisfied, please apply via filling the [form](https://docs.google.com/forms/d/e/1FAIpQLSeaoOkc-1FAcyYbD7TYOjJoiXbX7cQTArRACsps2g1VG7xgew/viewform?usp=sf_link).
 
 ### Code of Conduct
 
-CDF Meetup program follows the [CDF Code of Conduct](link to code of conduct).
+CDF Meetup program follows the [LF Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/).

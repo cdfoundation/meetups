@@ -13,7 +13,7 @@ The list of global Meetups is [located on meetup.com](https://www.meetup.com/pro
 ## Benefits of joining the CDF Meetup Program
 
 - Boosting the visibility of your meetup group
-- [Meetup Pro](https://www.meetup.com/pro) cost coverage
+- [Meetup Pro](https://www.meetup.com/pro/cicd-cdf) cost coverage
 - One-time complimentary swag certificate to the [CDF Store](https://store.cd.foundation)
 
 ## Meetup Best Practices

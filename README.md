@@ -109,6 +109,8 @@ Join the community: https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2
 
 The Slack channel for meetup support is **#meetups**.
 
+Drop us a line at cicd-cdf@googlegroups.com. 
+
 
 ## How to apply?
 

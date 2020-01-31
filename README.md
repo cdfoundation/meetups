@@ -105,11 +105,13 @@ If you're a newly created meetup and added to meetups.cncf.io, please reach out 
 
 If you have any other questions, you can ask them in the [CDF Slack](https://cdeliveryfdn.slack.com/).
 
-Join the community: https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtNzk2OTgxNzY2NzkwLTQ3Zjg0OGJhZjdiMjlkMjZjZjJjN2EwZDg1Mjk3ODJkMzdmYjdmNTk0MWI2ZjI2MzgzNWExN2E3ZWExZGIyZDM
+Join the community: https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2NDI1NDc0MzIxLTA1MDcxMzUyMGU2NWVlNmQwN2M1N2M4MWJjOWFkM2UzMDY0OWNkNjAzNzM0NzVkNjQ5M2NkMmY2MTRkMWY4MWY
 
 The Slack channel for meetup support is **#meetups**.
 
-Drop us a line at cicd-cdf@googlegroups.com. 
+Drop us a line at meetups [ @ ] cd.foundation
+
+Stay up to date by signing up for the [CDF's newsletter](https://cd.foundation/stay-connected/)
 
 
 ## How to apply?

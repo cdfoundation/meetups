@@ -109,7 +109,7 @@ Join the community: https://join.slack.com/t/cdeliveryfdn/shared_invite/enQtODM2
 
 The Slack channel for meetup support is **#meetups**.
 
-Drop us a line at meetups [ @ ] cd.foundation
+Drop us a line at meetups@cd.foundation
 
 Stay up to date by signing up for the [CDF's newsletter](https://cd.foundation/stay-connected/)
 

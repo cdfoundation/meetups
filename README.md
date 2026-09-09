@@ -27,7 +27,6 @@ If you start a brand new meetup that aims to cover the whole CI/CD landscape, we
 ```
 Continuous Delivery <Location>
 Jenkins (JAM) <Location>
-Tekton <Location>
 Spinnaker <Location>
 <Other CDF-hosted project name> <Location>
 ```
@@ -38,7 +37,7 @@ A brief description of the role of the CDF and the CI/CD approach could be added
 
 In order for your meetup to be the as visible as possible you should add a relevant list of **tags**.
 
-(For example, "Continuous Delivery", "DevOps", "Cloud Native", "Jenkins", "Jenkins-X", "Spinnaker", "Tekton",  etc.)
+(For example, "Continuous Delivery", "DevOps", "Cloud Native", "Jenkins", "Jenkins-X", "Spinnaker", etc.)
 
 The most important thing is to keep an **active group**, with frequent events (ideally once a month).
 

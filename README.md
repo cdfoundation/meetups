@@ -13,8 +13,6 @@ The list of global Meetups is [located on meetup.com](https://www.meetup.com/pro
 ## Benefits of joining the CDF Meetup Program
 
 - Boosting the visibility of your meetup group
-- [Meetup Pro](https://www.meetup.com/pro/cicd-cdf) cost coverage
-- One-time complimentary swag certificate to the [CDF Store](https://store.cd.foundation)
 
 ## Meetup Best Practices
 
@@ -96,10 +94,6 @@ You should think about sending a **reminder** message to the meetup group to ask
 If possible you should record videos of the presentations and take pictures for social media and the event page to share  afterwards.
 
 You should also **share** the slides with all members after the event. Optionally, please submit them to the [CDF Presentations repo](https://github.com/cdfoundation/presentations) on GitHub.
-
-### **CDF swag**
-
-If you're a newly created meetup and added to our listing, please reach out to meetups@cd.foundation for a complimentary $50 swag certificate to the [CDF Store](https://store.cd.foundation).
 
 ### **Ask for help**
 
